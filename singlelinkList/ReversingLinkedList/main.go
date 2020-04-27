@@ -10,8 +10,8 @@ type Node struct {
 	next int
 	//next *Node
 }
-
-func main() {
+j'j'j
+jjjfunc main() {
 	var (
 		head int
 		// N 长度
